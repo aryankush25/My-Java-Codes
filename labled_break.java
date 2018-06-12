@@ -25,5 +25,6 @@ public class labled_break
                 System.out.print(arr[j]);
             }
         }
+        System.out.println("");
     }
 }
